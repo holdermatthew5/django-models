@@ -1,7 +1,7 @@
 **Author:** Matthew Holder
 **Version:** 0.1
 
-[PR]()
+[PR](https://github.com/holdermatthew5/django-models/pull/1#issue-584531734)
 
 Problem Domain:
 
